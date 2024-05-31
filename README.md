@@ -22,6 +22,11 @@ To achieve high accuracy and reliability in price estimation, we employed severa
 
 
 ## 3. Model Usage
+Firstly, you must install the required libraries by running the following command:
+
+```sh
+pip install -r requirements.txt
+```
 We tried a total of 10 models in this project. Each of these notebooks includes 1 or 3 models as follows.
    - Bagging: `Model/Main/Bagging.ipynb`
    - Stacking: `Model/Main/Bagging.ipynb`
