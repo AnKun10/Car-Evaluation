@@ -28,6 +28,7 @@ Firstly, you must install the required libraries by running the following comman
 pip install -r requirements.txt
 ```
 We tried a total of 10 models in this project. Each of these notebooks includes 1 or 3 models as follows.
+   - KNN: `Model/Main/knn for prediction.ipynb`
    - Bagging: `Model/Main/Bagging.ipynb`
    - Stacking: `Model/Main/Bagging.ipynb`
    - Polynomial Regression: `Model/Main/Polynomial_Regression.ipynb`
