@@ -12,7 +12,7 @@
 This project presents our comprehensive research on predicting car prices using a variety of machine learning models trained on data we meticulously crawled from diverse online sources. Our objective is to develop robust models that deliver precise price estimates based on given car specifications, thereby helping users navigate the market with confidence.
 
 ### Objectives
-To achieve high accuracy and reliability in price estimation, we employed several machine learning techniques, including Support Vector Regression (SVR), K-Nearest Neighbors (KNN), XGBoost, Decision Trees, ... Additionally, we used stacking models to further enhance the prediction performance. Each model's strengths and weaknesses were rigorously evaluated to provide a comprehensive understanding of their performance. Our innovative approach combines meticulous data crawling, feature engineering, and state-of-the-art algorithms, offering significant practical implications for consumers and other stakeholders in the automotive market. This report details our methodology, findings, and the potential impact of our research on enhancing price assessment and market transparency.
+To achieve high accuracy and reliability in price estimation, we employed several machine learning techniques, including Support Vector Regression (SVR), K-Nearest Neighbors (KNN), XGBoost, and Decision Trees, ... Additionally, we used stacking models to further enhance the prediction performance. Each model's strengths and weaknesses were rigorously evaluated to provide a comprehensive understanding of their performance. Our innovative approach combines meticulous data crawling, feature engineering, and state-of-the-art algorithms, offering significant practical implications for consumers and other stakeholders in the automotive market. This report details our methodology, findings, and the potential impact of our research on enhancing price assessment and market transparency.
 
 ## 2. Data Preprocessing
 - Original data path: `Dataset/Original/car_detail_en.csv`. This CSV file includes data crawled from the web and some other sites
@@ -47,5 +47,6 @@ Each notebook file corresponds to one model, which is similar to the file name. 
 
 
 ## 4. Model Evaluation
-- Image of comparing table in the report
+![Result](https://github.com/AnKun10/Car-Evaluation/blob/main/result.png)
+
 
