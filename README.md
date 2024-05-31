@@ -36,7 +36,6 @@ Each notebook file corresponds to one model, which is similar to the file name. 
    - [Polynomial Regression](https://colab.research.google.com/drive/1WNIX-HT5t7WoxDBkCCn3ygZqvikZrRhx?usp=sharing)
 
 
-About the checkpoint of models, we saved it in the folder `...`
 
 ## 4. Model Evaluation
 - Image of comparing table in the report
