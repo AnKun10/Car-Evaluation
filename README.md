@@ -32,7 +32,7 @@ Furthermore, you can also try other models that have lower performance in these 
    - Model 2: ''
    - Model 3: ''
 Each notebook file correspondings to 1 model which is similar to the file name. Some models require large memory and a long time to train, so we have to train them on Google Colab and Kaggle in the following links:
-   - [Stacking]: 
+   - [Stacking]: (#https://www.kaggle.com/code/quangduc3122004/stacking-car-prediction)
    - [Bagging]: https://www.kaggle.com/code/quangduc3122004/bagging-ensemble-learning
    - [Polynomial Regression]: https://colab.research.google.com/drive/1WNIX-HT5t7WoxDBkCCn3ygZqvikZrRhx?usp=sharing
 
