@@ -1,0 +1,14 @@
+selenium
+regex
+scipy
+pyclustering
+joblib
+fastai
+optuna
+torch
+numpy
+pandas
+scikit-learn
+matplotlib
+xgboost
+seaborn
