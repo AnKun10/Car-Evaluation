@@ -27,13 +27,13 @@ Firstly, you must install the required libraries by running the following comman
 ```sh
 pip install -r requirements.txt
 ```
-We tried a total of 10 models in this project. Each of these notebooks includes 1 or 3 models as follows.
+We tried a total of 10 models in this project. Each of these notebooks includes 1 or 5 models as follows.
    - KNN: `Model/Main/knn for prediction.ipynb`
    - Bagging: `Model/Main/Bagging.ipynb`
    - Stacking: `Model/Main/Bagging.ipynb`
    - Polynomial Regression: `Model/Main/Polynomial_Regression.ipynb`
    - SVR: `Model/Main/SVR_train.ipynb`
-   - Decision Tree, RandomForest and ADaBoost: `Model/Main/Tree Price Prediction.ipynb`
+   - Decision Tree, Random Forest, AdaBoost, Gradient Boost and XGBoost: `Model/Main/Tree Price Prediction.ipynb`
 
 
 Our MLP Model is too large to push to Github, therefore we upload them on this Google Drive link: https://drive.google.com/drive/folders/1JRflRayeU7jh90eTcRB7iSf2y_Q8wb78?usp=sharing
