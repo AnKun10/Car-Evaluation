@@ -34,9 +34,12 @@ We tried a total of 10 models in this project. Each of these notebooks includes 
    - SVR: `Model/Main/SVR_train.ipynb`
    - Decision Tree, RandomForest and ADaBoost: `Model/Main/Tree Price Prediction.ipynb`
 
-Our MLP Model is too large to push to github, therefore we upload them on this Google Drive link: https://drive.google.com/drive/folders/1JRflRayeU7jh90eTcRB7iSf2y_Q8wb78?usp=sharing
 
-The MLP folder contains two parts: Data Preprocessing and Model, you can run code in every notebook file, all the other files is just data files.      
+Our MLP Model is too large to push to Github, therefore we upload them on this Google Drive link: https://drive.google.com/drive/folders/1JRflRayeU7jh90eTcRB7iSf2y_Q8wb78?usp=sharing
+
+
+The MLP folder contains two parts: Data Preprocessing and Model, you can run code in every notebook file, all the other files are just data files.   
+
      
 Each notebook file corresponds to one model, which is similar to the file name. Some models require large memory and a long time to train, so we have to train them on Google Colab and Kaggle in the following links:
    - [Stacking](https://www.kaggle.com/code/quangduc3122004/stacking-car-prediction)
