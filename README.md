@@ -27,7 +27,7 @@ We tried a total of 10 models in this project. Each of these notebooks includes 
    - Stacking: `Model/Main/Bagging.ipynb`
    - Polynomial Regression: `Model/Main/Polynomial_Regression.ipynb`
    - SVR: `Model/Main/SVR_train.ipynb`
-   - Decision Tree, RandomForest and Boosting: `Model/Main/Tree Price Prediction.ipynb`
+   - Decision Tree, RandomForest and ADaBoost: `Model/Main/Tree Price Prediction.ipynb`
      
      
 Each notebook file corresponds to one model, which is similar to the file name. Some models require large memory and a long time to train, so we have to train them on Google Colab and Kaggle in the following links:
