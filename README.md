@@ -26,11 +26,12 @@ We tried total n models in this project. From our experience, a,b, and c are the
    - Model 1: ''
    - Model 2: ''
    - Model 3: ''
+     
 Furthermore, you can also try other models that have lower performance in these files:
    - Model 1: ''
    - Model 2: ''
    - Model 3: ''
-Each notebook file correspondings to 1 model which is similar to the file name
+Each notebook file correspondings to 1 model which is similar to the file name. Some models require large memory and long time to train, so we have to train them on Google Colab and Kaggle in the following links:
 
 About the checkpoint of models, we saved it in the folder `...`
 
