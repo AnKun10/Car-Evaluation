@@ -31,6 +31,7 @@ Furthermore, you can also try other models that have lower performance in these 
    - Model 1: ''
    - Model 2: ''
    - Model 3: ''
+     
 Each notebook file corresponds to one model, which is similar to the file name. Some models require large memory and a long time to train, so we have to train them on Google Colab and Kaggle in the following links:
    - [Stacking](https://www.kaggle.com/code/quangduc3122004/stacking-car-prediction)
    - [Bagging](https://www.kaggle.com/code/quangduc3122004/bagging-ensemble-learning)
