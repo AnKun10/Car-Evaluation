@@ -2,9 +2,9 @@
 
 ## Table of Contents
 1. [Project Introduction](#1-project-introduction)
-2. [Data Preprocessing](#data-preprocessing)
-3. [Model Usage](#model-usage)
-4. [Model Evaluation](#model-evaluation)
+2. [Data Preprocessing](#2-data-preprocessing)
+3. [Model Usage](#3-model-usage)
+4. [Model Evaluation](#4-model-evaluation)
 
 ## 1. Project Introduction
 
