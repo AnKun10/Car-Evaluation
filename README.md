@@ -16,21 +16,19 @@ To achieve high accuracy and reliability in price estimation, we employed severa
 
 ## 2. Data Preprocessing
 - Original data path: `Dataset/Original/car_detail_en.csv`. This CSV file includes data crawled from the web and some other sites
-- The folder `Dataset/Patial Preprocessing` includes our data after each processing steps. There are 5 versions corresponding to our 5 steps of data preprocessing.
-- The final version of the data is placed in this folder `Dataset/Final`
-- The notebook saves our processing as `....ipynb`
+- The folder `Dataset/Patial Preprocessing` includes our data after each processing step. There are 5 versions corresponding to our 5 steps of data preprocessing.
+- The final version of the data is placed in this folder `Dataset/Final` and includes crawl, analysis, removal of noise, and encoding process.
+
 
 
 ## 3. Model Usage
-We tried total n models in this project. From our experience, a,b, and c are the 3 models that have the highest accuracy.
-   - Model 1: ''
-   - Model 2: ''
-   - Model 3: ''
+We tried a total of 10 models in this project. Each of these notebooks includes 1 or 3 models as follows.
+   - Bagging: `Model/Main/Bagging.ipynb`
+   - Stacking: `Model/Main/Bagging.ipynb`
+   - Polynomial Regression: `Model/Main/Polynomial_Regression.ipynb`
+   - SVR: `Model/Main/SVR_train.ipynb`
+   - Decision Tree, RandomForest and Boosting: `Model/Main/Tree Price Prediction.ipynb`
      
-Furthermore, you can also try other models that have lower performance in these files:
-   - Model 1: ''
-   - Model 2: ''
-   - Model 3: ''
      
 Each notebook file corresponds to one model, which is similar to the file name. Some models require large memory and a long time to train, so we have to train them on Google Colab and Kaggle in the following links:
    - [Stacking](https://www.kaggle.com/code/quangduc3122004/stacking-car-prediction)
