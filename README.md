@@ -9,31 +9,31 @@
 ## 1. Project Introduction
 
 ### Overview
-Provide a brief overview of the project. Explain the main goal, the problem it solves, and the importance of the project. 
+This project presents our comprehensive research on predicting car prices using a variety of machine learning models trained on data we meticulously crawled from diverse online sources. Our objective is to develop robust models that deliver precise price estimates based on given car specifications, thereby helping users navigate the market with confidence.
 
 ### Objectives
-- Clearly state the objectives of the project.
-- Highlight the key features and functionalities.
-
-### Dataset
-Provide a brief description of the dataset used, including the source and any relevant statistics or characteristics.
+To achieve high accuracy and reliability in price estimation, we employed several machine learning techniques, including Support Vector Regression (SVR), K-Nearest Neighbors (KNN), XGBoost, Decision Trees, ... Additionally, we used stacking models to further enhance the prediction performance. Each model's strengths and weaknesses were rigorously evaluated to provide a comprehensive understanding of their performance. Our innovative approach combines meticulous data crawling, feature engineering, and state-of-the-art algorithms, offering significant practical implications for consumers and other stakeholders in the automotive market. This report details our methodology, findings, and the potential impact of our research on enhancing price assessment and market transparency.
 
 ## 2. Data Preprocessing
-
-### Data Cleaning
-- Explain the steps taken to clean the data, including handling missing values, removing duplicates, and correcting errors.
-- Describe any transformations or normalizations applied to the data.
-
-### Feature Engineering
-- Detail any feature engineering techniques used to create new features from the existing data.
-- Include a list of the final features used in the model.
-
-### Data Splitting
-- Describe how the data was split into training, validation, and test sets.
-- Include the proportions or specific methods used for splitting.
+- Original data path: `Dataset/Original/car_detail_en.csv`. This CSV file includes data crawled from the web and some other sites
+- The folder `Dataset/Patial Preprocessing` includes our data after each processing steps. There are 5 versions corresponding to our 5 steps of data preprocessing.
+- The final version of the data is placed in this folder `Dataset/Final`
+- The notebook saves our processing as `....ipynb`
 
 
 ## 3. Model Usage
+We tried total n models in this project. From our experience, a,b, and c are the 3 models that have the highest accuracy.
+   - Model 1: ''
+   - Model 2: ''
+   - Model 3: ''
+Furthermore, you can also try other models that have lower performance in these files:
+   - Model 1: ''
+   - Model 2: ''
+   - Model 3: ''
+Each notebook file correspondings to 1 model which is similar to the file name
+
+About the checkpoint of models, we saved it in the folder `...`
 
 ## 4. Model Evaluation
+- Image of comparing table in the report
 
