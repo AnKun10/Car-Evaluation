@@ -1,7 +1,7 @@
 # Car - Evaluation
 
 ## Table of Contents
-1. [Project Introduction](#1-roject-introduction)
+1. [Project Introduction](#1-project-introduction)
 2. [Data Preprocessing](#data-preprocessing)
 3. [Model Usage](#model-usage)
 4. [Model Evaluation](#model-evaluation)
