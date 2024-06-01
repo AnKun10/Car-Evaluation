@@ -53,6 +53,6 @@ Each notebook file corresponds to one model, which is similar to the file name. 
 
 
 ## 4. Model Evaluation
-![Result](https://github.com/AnKun10/Car-Evaluation/blob/main/result.png)
+![Result](https://github.com/AnKun10/Car-Evaluation/blob/main/Results.png)
 
 
